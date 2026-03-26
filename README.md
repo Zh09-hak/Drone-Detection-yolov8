@@ -47,6 +47,7 @@ https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav
 ```bash
 project/
 ├── src/
+├── model/
 ├── data/ (not included)
 ├── runs/ (not included)
 ├── README.md
